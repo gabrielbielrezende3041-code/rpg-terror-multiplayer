@@ -1,0 +1,19 @@
+[
+  {
+    "code": "3B0E49",
+    "night": 1,
+    "round": 1,
+    "energy": 20,
+    "doors": {
+      "left": "open",
+      "right": "open"
+    },
+    "ended": false,
+    "logs": [
+      {
+        "at": "17:29",
+        "message": "Vigia criou a partida 3B0E49."
+      }
+    ]
+  }
+]
